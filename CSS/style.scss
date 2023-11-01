@@ -1,0 +1,35 @@
+.home-content{
+.home-text{
+    h2{
+        padding: 20px;
+    }
+    
+}
+}
+p{
+    padding-left: 20px;
+}
+.container{
+    .row{
+        img{
+            width: 600px;
+            height: 300px;
+            padding: 30px;
+        }
+
+    }
+    .col-md-4{
+        .card{
+            img{
+                height: 200px;
+            }
+        }
+    }
+}
+#menu{
+    .container-fluid{
+        .card-body{
+            background-color: white;
+        }
+    }
+}
